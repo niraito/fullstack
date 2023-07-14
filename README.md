@@ -1,4 +1,6 @@
 # fullstack
-Full Stack GraphQL Applications
-WITH REACT, NODE.JS, AND NEO4J
+Full Stack GraphQL Applications with Raect, Node.js, and Neo4j
+
 WILLIAM LYON
+
+https://www.smashingmagazine.com/2022/11/graph-neo4j-graphql-library/
